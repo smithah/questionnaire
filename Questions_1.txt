@@ -1,0 +1,60 @@
+
+Question asked - How would you estimate the number of connected ,active smart devices used in the world 🌎. And how would you estimate region wise.
+
+1) Runtime Polymorphism 
+2) Variable is private in SuperClass , can we access in Subclass.
+3) What is the size of int Variable in subclass,  if there is also an int Variable in Superclass.
+4) Design Patterns worked on.
+5) Have you used private constructor.
+6) How to identify thread blocking and deadlock
+7) What if the json file exceeds its limit on disk and how would you show it on UI.
+8) What is the total stack size of a thread.
+9) Explain ant latest automation you have developed. 
+10) What is the default stack size of a thread.
+11) Cloud Security. 
+12) Blind sql injection
+13) switch in Git
+14) Any questions for us.
+15) Explain architecting a application. 
+16) What is SOW
+17) Project pitch.
+
+Copilot have you used
+
+What all do you get during a PoC
+
+What are crash dumps
+What is the package 📦 name in iPad,mobile
+
+What all source control you have used.
+What is switch in git
+
+What design patterns have you used so far.
+
+moving a 10gb file from a 32 bit jvm to 64bit jvm , will it give outOfMemory error
+
+json maximum file size reached on server how to handle it.
+
+What is the maximum size of a JSON file
+
+What is cloud
+Architecture using cloud
+
+What is critical section in java
+Have you worked on multithreaded application?
+
+Have you used a private constructor ?
+
+
+How do we create a custom exception?
+How do we handle a custom exception?
+How to handle an exception that is not declared?
+
+What is raise in python
+Have you ever used private constructor?
+
+What is finally in java
+
+What is final, finally and Finalize.
+
+
