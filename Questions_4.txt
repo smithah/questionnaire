@@ -1,1 +1,53 @@
-
+1. What is reactive programming
+2. Configurations in Tomcat
+3. Ajax
+4. Technologies in Client Side and Server Side
+5. Is Ajax Client side or Server side
+6. Functional Programming
+7. Ibatis, JMS
+8. Can we create objects in JavaScript.
+9. What is Microservices
+10. Spring Boot and Micorservices
+11. How is Transaction Management in Spring
+12. What modules of Spring have you worked in
+13. Quartz Scheduling
+14. Java 8 new features
+15. Lambda Expressions
+16. Isolation levels in Hibernate
+17. How is transaction management in Spring.
+18. Projects worked in Mindtree and HP
+19. What all design patterns have you used.
+20. Have you overridden any Java object methods
+21. Have you overridden hashCode and equals method.
+22. What are the different Maps in Java , what is it used for.
+23. When is REST used and when is SOAP used.
+24. What does WSDL file for and contain
+25. JSON - jars required for JSON 
+26. Maven, what is it used for - heard of it.
+27. Batch processing in Spring.
+28. AngularJS what is it for and used for ? 
+29. Explain JDBC transaction how is it used.
+30. EAR and WAR file
+31 JavaScript Tags.
+32. Is EJB still used.
+33. Singleton only if you make it private is it not enough, why make it clone ?
+34. Explain a multithreaded environment
+35. Explain ThreadPool how is it created and how it works
+36. Explain how will you design client side for a Finance domain.
+37. Unix command for opening a file and searching a string in it
+38. What have you been doing the gap years
+39. What and how have you kept touch with programming practice in your break.
+40. How long will you take to brush up your coding skills if selected.
+41. Jenkins
+42. How will you design a SOAP and REST based webservice
+43. Why webservices,
+44. What is JPA, can it be implemented independently.
+45. Does hibernate implement JPA
+46. How will you implement a REST based webservice.
+47. Have you tried any coding with SOAP and Java 8 features ?
+48. What is the difference between GET and POST
+49. Pagination in Hibernate
+50. Lazy loading and early loading in Hibernate
+51. grep command, touch command in Unix.
+52. If multiple user requests come in to Servlet, how will it be handled.
+53. Huge number of data is to moved, or updated in the Hibernate , how is it achieved, by Pagination in Hibernate.
