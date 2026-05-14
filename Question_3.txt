@@ -1,1 +1,94 @@
+1. Finding the minimum number of missing parenthesis in the given string.
+2. Find a pair of music strings [60,60,60] o/p - 3 that adds up the multiples of 60.
+3. Implement a Comparable interface for Account for the most valuable customer account details.
 
+8 questions objective.
+
+
+1. Program for Balanced Brackets.
+2. Program for Conflicting Meeting Schedules.
+3. Program for Palindrome in a LinkedList.
+4. String Constant Pool
+5. Concurrent HashMap used and what it is.
+6. Java Memory Model.
+7. Time Complexity of the Written programs
+8. Time Complexity of HashMap.
+9. Immutable Hashmap where it is used and why it is used.
+10. Any questions for me.
+
+1. Knowledge of HyperAutomation tools and processes in the life cycle .
+2. How to install the local package to Uipath Studio.
+3. If multiple vendors are there then how to share the same Orchestrator
+instance among all of them.
+4. How to run the same robot on multiple systems from Orchestrator.
+5. Workflow Analyzer in Uipath.
+6. What version of Uipath have you worked on.
+7. Architect role.
+8. Why did you go for Re-Framework.
+9. What questions do you have for us Technical.
+10.What challenge you faced in Uipath after working in Java all these years.
+1. Architecture of your last project in the company.
+2. How does data transfer happen between view and controller in Spring.
+3. Draw the Spring MVC architecture.
+4. Write the bean configuration in Spring.
+5 . Two types of dependency injection in Spring.
+6. Spring to Hibernate configuration to connect to the Database.
+7. SSL handshake configuration in Tomcat.
+8. Struts 1 architecture.
+9. Left join query
+10. Write a simple Stored Procedure
+11. Dozer what
+12 Apache Kafka what
+13 JAXB what
+14. Design patterns - Singleton where used, Factory pattern where used.
+15. Multithreaded environment code.
+16. Callable Vs Runnable
+17. A(
+
+A()
+£ 
+Sop(1) 
+Super ();
+£
+
+£sop(2)£
+
+Static £ sop(3)£
+
+)
+
+What is the output.
+
+18.SOAP where used.
+19. This Vs super
+
+
+20. Different annotations in Hibernate. Annotations for join in Hibernate.
+
+21. Have you worked on Generics, Java 1.8.
+22. Prevent duplicate in list.
+23. Iterate through hashmap
+24. Where is Hashmap and Treemap used.
+25. Sorting of objects - comparable and comparator.
+26. Exception handling done how in projects.
+27. Junit used and build tool used.
+28. Scrum process explain.
+1. String literals and objects on heap.
+2. Parent and child classes object assignment.
+3. Method overriding.
+4. Method overriding with exception
+5. Struts
+6. Hiberante
+7. Spring - dependency injection
+8. Token
+9. Token form struts
+10. Query to fetch max salary from employee table. Max salary by gender.
+11. 3 ltr and 5 ltr water puzzle.
+
+
+1. Workfusion
+2. fte
+3. Sla
+4. What type of processes are considered for automation
+5. Simple automation of reading emails and storing from, to, message in an excel sheet.
+6. Why Re- Framework?
