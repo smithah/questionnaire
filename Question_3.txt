@@ -1,3 +1,9 @@
+https://projecteuler.net/
+
+This is a very good project in mathematical and programming concepts development
+
+
+
 1. Finding the minimum number of missing parenthesis in the given string.
 2. Find a pair of music strings [60,60,60] o/p - 3 that adds up the multiples of 60.
 3. Implement a Comparable interface for Account for the most valuable customer account details.
